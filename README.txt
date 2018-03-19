@@ -1,4 +1,4 @@
-In this folders you can find two codes:
+In this folder you can find two codes:
 
 - general: here there is a programm made of a lot of classes and subclasses. In main.cpp you can choose which configuration you want
 to use, the possibilities are:
