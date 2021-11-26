@@ -22,4 +22,4 @@ It prints out on the terminal the value of the angle in arcseconds.
 
 To compile: c++ -o run.x *.cpp
 
-Authors: Federico Nardi, Davide Saccardo, Lorenzo Speri.
+This project was realized in collaboration with Federico Nardi and Lorenzo Speri at the University of Oslo (Norway).
